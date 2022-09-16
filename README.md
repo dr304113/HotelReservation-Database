@@ -1,6 +1,6 @@
 # Hotel Reservation Schema
 
-
+A relational database created to store guest reservation information for a hotel.
 
 
 Technologies Used:
